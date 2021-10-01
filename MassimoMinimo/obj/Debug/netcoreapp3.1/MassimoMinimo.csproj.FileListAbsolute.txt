@@ -1,0 +1,13 @@
+C:\Users\abderazak.erraknaoui\Desktop\MassimoMinimo\MassimoMinimo\bin\Debug\netcoreapp3.1\MassimoMinimo.exe
+C:\Users\abderazak.erraknaoui\Desktop\MassimoMinimo\MassimoMinimo\bin\Debug\netcoreapp3.1\MassimoMinimo.deps.json
+C:\Users\abderazak.erraknaoui\Desktop\MassimoMinimo\MassimoMinimo\bin\Debug\netcoreapp3.1\MassimoMinimo.runtimeconfig.json
+C:\Users\abderazak.erraknaoui\Desktop\MassimoMinimo\MassimoMinimo\bin\Debug\netcoreapp3.1\MassimoMinimo.runtimeconfig.dev.json
+C:\Users\abderazak.erraknaoui\Desktop\MassimoMinimo\MassimoMinimo\bin\Debug\netcoreapp3.1\MassimoMinimo.dll
+C:\Users\abderazak.erraknaoui\Desktop\MassimoMinimo\MassimoMinimo\bin\Debug\netcoreapp3.1\MassimoMinimo.pdb
+C:\Users\abderazak.erraknaoui\Desktop\MassimoMinimo\MassimoMinimo\obj\Debug\netcoreapp3.1\MassimoMinimo.csproj.AssemblyReference.cache
+C:\Users\abderazak.erraknaoui\Desktop\MassimoMinimo\MassimoMinimo\obj\Debug\netcoreapp3.1\MassimoMinimo.AssemblyInfoInputs.cache
+C:\Users\abderazak.erraknaoui\Desktop\MassimoMinimo\MassimoMinimo\obj\Debug\netcoreapp3.1\MassimoMinimo.AssemblyInfo.cs
+C:\Users\abderazak.erraknaoui\Desktop\MassimoMinimo\MassimoMinimo\obj\Debug\netcoreapp3.1\MassimoMinimo.csproj.CoreCompileInputs.cache
+C:\Users\abderazak.erraknaoui\Desktop\MassimoMinimo\MassimoMinimo\obj\Debug\netcoreapp3.1\MassimoMinimo.dll
+C:\Users\abderazak.erraknaoui\Desktop\MassimoMinimo\MassimoMinimo\obj\Debug\netcoreapp3.1\MassimoMinimo.pdb
+C:\Users\abderazak.erraknaoui\Desktop\MassimoMinimo\MassimoMinimo\obj\Debug\netcoreapp3.1\MassimoMinimo.genruntimeconfig.cache
