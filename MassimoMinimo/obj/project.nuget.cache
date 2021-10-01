@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "nHpbrnkqMRA7JxZFpNjW7GqPHTNkbq3+kmQpvC8PfoxXjXn/44kRurxb/b5SN4usNnxlBB8TQarXYTM2Z5ZHEQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\abderazak.erraknaoui\\Desktop\\MassimoMinimo\\MassimoMinimo\\MassimoMinimo.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\abderazak.erraknaoui\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.17\\microsoft.netcore.app.host.win-x64.3.1.17.nupkg.sha512"
+  ],
+  "logs": []
+}
